@@ -1,6 +1,6 @@
 {
-  "name": "filetypechecker",
-  "version": "1.0.0",
+  "name": "@abhijith_213-/js-file-magic-number-checker",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
